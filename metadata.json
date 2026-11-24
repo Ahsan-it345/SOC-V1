@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Defense Console",
+  "description": "Mission-critical SecOps workbench for real-time threat detection, SIEM telemetry correlation, and incident containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
