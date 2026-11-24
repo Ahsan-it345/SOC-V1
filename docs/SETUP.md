@@ -41,6 +41,8 @@ npm -v
 
    > **Security Note:** Never commit `.env` files or API secrets to version control. `.gitignore` excludes local environment files by default.
 
+   For configuring persistent storage (PostgreSQL or Firebase Firestore), see **[Database Setup Guide](./DATABASE_SETUP.md)**.
+
 3. **Run the Development Server**
 
    ```bash
